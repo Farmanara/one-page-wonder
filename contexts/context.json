@@ -1,0 +1,96 @@
+{
+
+    "head":{
+        "meta":{
+            "description":"",
+            "author":""
+        },
+        "title":"One Page Wonder - Start Bootstrap Template",
+        "favicon":"one-page-wonder_template/assets/favicon.ico",
+        "css":"one-page-wonder_template/css/styles.css"
+    }
+    ,
+    "sections":[
+        {
+            "file":"one-page-wonder_template/sections/navigation.html",
+            "content":{
+                "brand_href":"#page-top",
+                "brand_text":"Start Bootstrap",
+                "items":[
+                    {
+                        "href":"#!",
+                        "text":"Sign Up"
+                    },
+                    {
+                        "href":"#!",
+                        "text":"Log In"
+                    }
+                ]
+            }
+        },
+        {
+            "file":"one-page-wonder_template/sections/header.html",
+            "content":{
+                "heading":"One Page Wonder",
+                "subheading":"Will Rock Your Socks Off",
+                "btn_class":"btn btn-primary btn-xl rounded-pill mt-5",
+                "btn_href":"#scroll",
+                "btn_text":"Learn More",
+                "bg_circles":[
+                    {
+                        "class":"bg-circle-1 bg-circle"
+                    },
+                    {
+                        "class":"bg-circle-2 bg-circle"
+                    },
+                    {
+                        "class":"bg-circle-3 bg-circle"
+                    },
+                    {
+                        "class":"bg-circle-4 bg-circle"
+                    }
+                ]
+            }
+        },
+        {
+            "file":"one-page-wonder_template/sections/content_section.html",
+            "content":{
+                "content_sections":[
+                    {
+                        "id":"scroll",
+                        "img_div_class":"col-lg-6 order-lg-2",
+                        "img_src":"one-page-wonder_templates/assets/img/01.jpg",
+                        "img_alt":"...",
+                        "text_div_class":"col-lg-6 order-lg-1",
+                        "title":"For those about to rock...",
+                        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati."
+                    },
+                    {
+                        "img_div_class":"col-lg-6",
+                        "img_src":"one-page-wonder_templates/assets/img/02.jpg",
+                        "img_alt":"...",
+                        "text_div_class":"col-lg-6",
+                        "title":"We salute you!",
+                        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati."
+                    },
+                    {
+                        "img_div_class":"col-lg-6 order-lg-2",
+                        "img_src":"one-page-wonder_templates/assets/img/03.jpg",
+                        "img_alt":"...",
+                        "text_div_class":"col-lg-6 order-lg-1",
+                        "title":"Let there be rock!",
+                        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati."
+                    }
+                ]
+            }
+        },{
+            "file":"one-page-wonder_template/sections/footer.html",
+            "content":{
+                "copyright":"Copyright © Your Website 2021"
+            }
+        }
+    ],
+    "javascript":"one-page-wonder_template/js/scripts.js"
+
+}
+

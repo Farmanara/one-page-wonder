@@ -1,0 +1,15 @@
+  {%load static%}
+  <!-- Header-->
+        <header class="masthead text-center text-white">
+            <div class="masthead-content">
+                <div class="container px-5">
+                    <h1 class="masthead-heading mb-0">{{section.content.heading}}</h1>
+                    <h2 class="masthead-subheading mb-0">{{section.content.subheading}}</h2>
+                    <a class="{{section.content.btn_class}}" href="{{section.content.btn_href}}">{{section.content.btn_text}}</a>
+                </div>
+            </div>
+            {%for circle in section.content.bg_circles%}
+            <div class="{{circle.class}}"></div>
+            {%endfor%}
+          
+        </header>
