@@ -59,7 +59,7 @@
                     {
                         "id":"scroll",
                         "img_div_class":"col-lg-6 order-lg-2",
-                        "img_src":"one-page-wonder_templates/assets/img/01.jpg",
+                        "img_src":"one-page-wonder_template/assets/img/01.jpg",
                         "img_alt":"...",
                         "text_div_class":"col-lg-6 order-lg-1",
                         "title":"For those about to rock...",
@@ -67,7 +67,7 @@
                     },
                     {
                         "img_div_class":"col-lg-6",
-                        "img_src":"one-page-wonder_templates/assets/img/02.jpg",
+                        "img_src":"one-page-wonder_template/assets/img/02.jpg",
                         "img_alt":"...",
                         "text_div_class":"col-lg-6",
                         "title":"We salute you!",
@@ -75,7 +75,7 @@
                     },
                     {
                         "img_div_class":"col-lg-6 order-lg-2",
-                        "img_src":"one-page-wonder_templates/assets/img/03.jpg",
+                        "img_src":"one-page-wonder_template/assets/img/03.jpg",
                         "img_alt":"...",
                         "text_div_class":"col-lg-6 order-lg-1",
                         "title":"Let there be rock!",
